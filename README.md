@@ -1,9 +1,9 @@
 👋 Hola, soy IDM-CODE
 
 🎯 Desarrollador senior especializado en:
-- Microservicios con Java + Spring Boot
 - Ingeniería de Datos con Python (ETL, SQL, Airflow, AWS)
 - Programación de Inteligencia Artificial aplicada
+- Microservicios con Java + Spring Boot
 
 🚀 Apasionado por construir soluciones escalables, automatizar procesos y compartir conocimiento técnico a nivel profesional.
 
