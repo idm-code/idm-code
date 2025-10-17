@@ -16,6 +16,6 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/iv%C3%A1n-dapena-morillo/
 
-🔗 YouTube: https://www.youtube.com/@IDM-CODE (AUN EN CONSTRUCCION) 🔧⚠️
+🔗 YouTube: https://www.youtube.com/@IDM-CODE
 
 🐦‍⬛ twitter: @idm_code
